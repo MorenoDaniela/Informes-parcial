@@ -1,0 +1,416 @@
+# depslib dependency file v1.0
+1558049215 source:/home/alumno/DanielaMoreno/CascaraParcial/CASCARA FINAL PARA LINUX/fantasma.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fantasma.h"
+	<stdio_ext.h>
+	"funciones.h"
+
+1558337649 .h"
+
+1558048341 /home/alumno/DanielaMoreno/CascaraParcial/CASCARA FINAL PARA LINUX/fantasma.h
+
+1558042661 /home/alumno/DanielaMoreno/CascaraParcial/CASCARA FINAL PARA LINUX/funciones.h
+
+1558042661 source:/home/alumno/DanielaMoreno/CascaraParcial/CASCARA FINAL PARA LINUX/funciones.c
+	"validaciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio_ext.h>
+
+1558042661 .h>
+
+1558042661 /home/alumno/DanielaMoreno/CascaraParcial/CASCARA FINAL PARA LINUX/validaciones.h
+
+1558054211 source:/home/alumno/DanielaMoreno/CascaraParcial/CASCARA FINAL PARA LINUX/instrumento.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"instrumento.h"
+	<stdio_ext.h>
+	"funciones.h"
+
+1558052396 /home/alumno/DanielaMoreno/CascaraParcial/CASCARA FINAL PARA LINUX/instrumento.h
+
+1558053263 source:/home/alumno/DanielaMoreno/CascaraParcial/CASCARA FINAL PARA LINUX/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio_ext.h>
+	"orquesta.h"
+	"musico.h"
+	"instrumento.h"
+	"funciones.h"
+
+1558051266 /home/alumno/DanielaMoreno/CascaraParcial/CASCARA FINAL PARA LINUX/orquesta.h
+
+1558052396 /home/alumno/DanielaMoreno/CascaraParcial/CASCARA FINAL PARA LINUX/musico.h
+	"instrumento.h"
+	"orquesta.h"
+
+1558324090 h"
+
+1558054478 source:/home/alumno/DanielaMoreno/CascaraParcial/CASCARA FINAL PARA LINUX/musico.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"musico.h"
+	<stdio_ext.h>
+	"funciones.h"
+
+1558053585 source:/home/alumno/DanielaMoreno/CascaraParcial/CASCARA FINAL PARA LINUX/orquesta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"orquesta.h"
+	<stdio_ext.h>
+	"funciones.h"
+
+1558042661 source:/home/alumno/DanielaMoreno/CascaraParcial/CASCARA FINAL PARA LINUX/validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio_ext.h>
+	"validaciones.h"
+
+1558113261 nes.h"
+
+1558055028 source:c:\users\pc\desktop\workspace\cascara final para linux\fantasma.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fantasma.h"
+	<stdio_ext.h>
+	"funciones.h"
+
+1558055028 c:\users\pc\desktop\workspace\cascara final para linux\fantasma.h
+
+1558055028 c:\users\pc\desktop\workspace\cascara final para linux\funciones.h
+
+1558113206 source:c:\users\pc\desktop\workspace\cascara final para linux\funciones.c
+	"validaciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1558417253 
+
+1558055028 c:\users\pc\desktop\workspace\cascara final para linux\validaciones.h
+
+1558337649 source:c:\users\pc\desktop\workspace\cascara final para linux\orquesta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"orquesta.h"
+	"funciones.h"
+
+1558167199 c:\users\pc\desktop\workspace\cascara final para linux\orquesta.h
+
+1558113261 source:c:\users\pc\desktop\workspace\cascara final para linux\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
+1558337520 source:c:\users\pc\desktop\workspace\cascara final para linux\instrumento.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"instrumento.h"
+	"funciones.h"
+
+1558157228 c:\users\pc\desktop\workspace\cascara final para linux\instrumento.h
+
+1558381489 source:c:\users\pc\desktop\workspace\cascara final para linux\musico.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"musico.h"
+	"orquesta.h"
+	"instrumento.h"
+	"funciones.h"
+
+1558324090 c:\users\pc\desktop\workspace\cascara final para linux\musico.h
+	"instrumento.h"
+	"orquesta.h"
+
+1558377452 source:c:\users\pc\desktop\workspace\cascara final para linux\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"orquesta.h"
+	"musico.h"
+	"instrumento.h"
+	"informes.h"
+	"funciones.h"
+
+1558404624 source:c:\users\pc\desktop\workspace\cascara final para linux\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"informes.h"
+	"musico.h"
+	"instrumento.h"
+	"orquesta.h"
+	"funciones.h"
+
+1558377452 c:\users\pc\desktop\workspace\cascara final para linux\informes.h
+	"orquesta.h"
+	"instrumento.h"
+	"musico.h"
+
+1558055028 source:c:\users\pc\desktop\workspace\teatro\fantasma.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fantasma.h"
+	<stdio_ext.h>
+	"funciones.h"
+
+1558055028 c:\users\pc\desktop\workspace\teatro\fantasma.h
+
+1558055028 c:\users\pc\desktop\workspace\teatro\funciones.h
+
+1558113206 source:c:\users\pc\desktop\workspace\teatro\funciones.c
+	"validaciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1558055028 c:\users\pc\desktop\workspace\teatro\validaciones.h
+
+1558416677 source:c:\users\pc\desktop\workspace\teatro\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"informes.h"
+	"musico.h"
+	"instrumento.h"
+	"orquesta.h"
+	"funciones.h"
+
+1558417253 c:\users\pc\desktop\workspace\teatro\informes.h
+	"orquesta.h"
+	"instrumento.h"
+	"musico.h"
+
+1558167199 c:\users\pc\desktop\workspace\teatro\orquesta.h
+
+1558157228 c:\users\pc\desktop\workspace\teatro\instrumento.h
+
+1558324090 c:\users\pc\desktop\workspace\teatro\musico.h
+	"instrumento.h"
+	"orquesta.h"
+
+1558337520 source:c:\users\pc\desktop\workspace\teatro\instrumento.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"instrumento.h"
+	"funciones.h"
+
+1558417253 source:c:\users\pc\desktop\workspace\teatro\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"orquesta.h"
+	"musico.h"
+	"instrumento.h"
+	"informes.h"
+	"funciones.h"
+
+1558381489 source:c:\users\pc\desktop\workspace\teatro\musico.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"musico.h"
+	"orquesta.h"
+	"instrumento.h"
+	"funciones.h"
+
+1558337649 source:c:\users\pc\desktop\workspace\teatro\orquesta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"orquesta.h"
+	"funciones.h"
+
+1558113261 source:c:\users\pc\desktop\workspace\teatro\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
+1558474624 source:/home/alumno/DanielaDenu/Informes/Teatro/fantasma.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fantasma.h"
+	<stdio_ext.h>
+	"funciones.h"
+
+1558474624 /home/alumno/DanielaDenu/Informes/Teatro/fantasma.h
+
+1558474624 /home/alumno/DanielaDenu/Informes/Teatro/funciones.h
+
+1558474624 source:/home/alumno/DanielaDenu/Informes/Teatro/funciones.c
+	"validaciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio_ext.h>
+
+1558474624 /home/alumno/DanielaDenu/Informes/Teatro/validaciones.h
+
+1558482804 source:/home/alumno/DanielaDenu/Informes/Teatro/informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio_ext.h>
+	"informes.h"
+	"musico.h"
+	"instrumento.h"
+	"orquesta.h"
+	"funciones.h"
+
+1558482624 /home/alumno/DanielaDenu/Informes/Teatro/informes.h
+	"orquesta.h"
+	"instrumento.h"
+	"musico.h"
+
+1558474624 /home/alumno/DanielaDenu/Informes/Teatro/orquesta.h
+
+1558474624 /home/alumno/DanielaDenu/Informes/Teatro/instrumento.h
+
+1558474624 /home/alumno/DanielaDenu/Informes/Teatro/musico.h
+	"instrumento.h"
+	"orquesta.h"
+
+1558483546 source:/home/alumno/DanielaDenu/Informes/Teatro/instrumento.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"instrumento.h"
+	<stdio_ext.h>
+	"funciones.h"
+
+1558483545 source:/home/alumno/DanielaDenu/Informes/Teatro/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio_ext.h>
+	"orquesta.h"
+	"musico.h"
+	"instrumento.h"
+	"informes.h"
+	"funciones.h"
+
+1558483546 source:/home/alumno/DanielaDenu/Informes/Teatro/musico.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"musico.h"
+	"orquesta.h"
+	"instrumento.h"
+	<stdio_ext.h>
+	"funciones.h"
+
+1558483546 source:/home/alumno/DanielaDenu/Informes/Teatro/orquesta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"orquesta.h"
+	<stdio_ext.h>
+	"funciones.h"
+
+1558474624 source:/home/alumno/DanielaDenu/Informes/Teatro/validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio_ext.h>
+	"validaciones.h"
+
+1558483671 source:c:\users\pc\desktop\workspace\informes\fantasma.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fantasma.h"
+	<stdio_ext.h>
+	"funciones.h"
+
+1558483671 c:\users\pc\desktop\workspace\informes\fantasma.h
+
+1558483671 c:\users\pc\desktop\workspace\informes\funciones.h
+
+1558497767 source:c:\users\pc\desktop\workspace\informes\funciones.c
+	"validaciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1558483671 c:\users\pc\desktop\workspace\informes\validaciones.h
+
+1559196876 source:c:\users\pc\desktop\workspace\informes\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"informes.h"
+	"musico.h"
+	"instrumento.h"
+	"orquesta.h"
+	"funciones.h"
+
+1559196332 c:\users\pc\desktop\workspace\informes\informes.h
+	"orquesta.h"
+	"instrumento.h"
+	"musico.h"
+
+1559193861 c:\users\pc\desktop\workspace\informes\orquesta.h
+
+1559193423 c:\users\pc\desktop\workspace\informes\instrumento.h
+
+1559193423 c:\users\pc\desktop\workspace\informes\musico.h
+	"instrumento.h"
+	"orquesta.h"
+
+1559193604 source:c:\users\pc\desktop\workspace\informes\instrumento.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"instrumento.h"
+	"funciones.h"
+
+1559196332 source:c:\users\pc\desktop\workspace\informes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"orquesta.h"
+	"musico.h"
+	"instrumento.h"
+	"informes.h"
+	"funciones.h"
+
+1559196876 source:c:\users\pc\desktop\workspace\informes\musico.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"musico.h"
+	"orquesta.h"
+	"instrumento.h"
+	"funciones.h"
+
+1559193861 source:c:\users\pc\desktop\workspace\informes\orquesta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"orquesta.h"
+	"funciones.h"
+
+1558497710 source:c:\users\pc\desktop\workspace\informes\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
